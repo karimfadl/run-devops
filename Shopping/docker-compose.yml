@@ -14,4 +14,4 @@ services:
       dockerfile: Shopping.Client/Dockerfile
 
   shopping.db:
-    image: mongo
+    image: mongo:4.0.4
